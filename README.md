@@ -164,9 +164,9 @@ log_data/2018/11/2018-11-13-events.json
 - configuration file for AWS credentials
 
 ```
-***REMOVED***
-***REMOVED***
-***REMOVED***
+[AWS]
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
 ```
 
 
