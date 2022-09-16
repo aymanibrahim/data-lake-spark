@@ -190,3 +190,5 @@ AWS_SECRET_ACCESS_KEY=
 - ## [Data Modeling with Cassandra](https://github.com/aymanibrahim/data-modeling-cassandra)    
 - ## [Data Warehouse with Redshift](https://github.com/aymanibrahim/data-warehouse-redshift)    
 - ## [Data Lake with Spark](https://github.com/aymanibrahim/data-lake-spark)
+
+- ## [Data Pipeline with Airflow](https://github.com/aymanibrahim/data-pipeline-airflow)
